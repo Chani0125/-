@@ -11,7 +11,7 @@
 #define _POS_START (_DUTY_MIN + 100)    // servo start position
 #define _POS_END   (_DUTY_MAX - 100)    // servo end position
 
-#define _SERVO_SPEED 1001 // servo speed limit (unit: degree/second)
+#define _SERVO_SPEED 5 // servo speed limit (unit: degree/second)
 #define INTERVAL 20     // servo update interval (unit: msec)
 
 // global variables
